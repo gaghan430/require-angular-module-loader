@@ -1,0 +1,31 @@
+{
+  "name": "require-angular-module-loader",
+  "authors": [
+    "dodik gaghan <gaghan430@gmail.com>"
+  ],
+  "description": "RequireJS loader for Angular JS",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs",
+    "angularjs",
+    "require",
+    "angular",
+    "modular",
+    "loader"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "text": "^2.0.14"
+  }
+}
