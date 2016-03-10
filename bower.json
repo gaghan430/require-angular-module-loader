@@ -17,7 +17,7 @@
     "loader"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/gaghan430/require-angular-module-loader",
   "ignore": [
     "**/.*",
     "node_modules",
