@@ -1,3 +1,4 @@
+
 define(['base'], function(base) {
     return {
         normalize: function(name, normalize) {
@@ -21,5 +22,8 @@ define(['base'], function(base) {
                 onload(value);
             });
         }
+
     }
+
+
 });
