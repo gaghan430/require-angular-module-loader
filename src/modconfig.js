@@ -2,7 +2,7 @@
  * @Author: gaghan
  * @Date:   2016-02-29 12:20:01
  * @Last Modified by:   Dodik Gaghan
- * @Last Modified time: 2016-08-08 20:43:56
+ * @Last Modified time: 2016-08-08 20:53:14
  */
 'use strict';
 define(['base'], function(base) {
@@ -14,9 +14,6 @@ define(['base'], function(base) {
             return base.normalize(name, normalize);
         },
 
-
-
-        
         load: function(name, req, onload, config) {
             base.validate(config, 'modconfig');
             var structure = config.structure;
