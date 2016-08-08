@@ -1,5 +1,6 @@
 define(function() {
     return {
+        
         /**
          *
          * @param config
