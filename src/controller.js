@@ -8,5 +8,4 @@ define(['base'], function(base) {
             base.process('controller', name, req, onload, config);
         }
     }
-    
 });
