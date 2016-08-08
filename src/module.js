@@ -24,6 +24,4 @@ define(['base'], function(base) {
         }
 
     }
-
-
 });
