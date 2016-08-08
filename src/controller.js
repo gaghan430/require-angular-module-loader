@@ -1,4 +1,5 @@
 define(['base'], function(base) {
+
     return {
         normalize: function(name, normalize) {
             return base.normalize(name, normalize);
